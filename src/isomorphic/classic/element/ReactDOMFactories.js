@@ -171,6 +171,7 @@ var ReactDOMFactories = mapObject({
   svg: 'svg',
   text: 'text',
   tspan: 'tspan',
+  textPath: 'textPath',
 
 }, createDOMFactory);
 
